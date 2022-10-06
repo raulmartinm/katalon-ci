@@ -1,3 +1,0 @@
-name: test
-image: ${artifact.metadata.image}
-apiKey: ${serviceVariable.apiKey}
